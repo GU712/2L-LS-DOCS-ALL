@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]Civilizasoes Perdidas[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]Segunda Guerra em Cores[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -55,15 +55,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]<NOMEDOEP>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Blitzkrieg[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Grandes%20Momentos%20da%20Segunda%20Guerra%20em%20Cores%20-%202019%20-%201080p/01%20Blitzkrieg.mkv
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]<NOMEDOEP>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Battle Of Britain[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Grandes%20Momentos%20da%20Segunda%20Guerra%20em%20Cores%20-%202019%20-%201080p/02%20Battle%20Of%20Britain.mkv
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]<NOMEDOEP>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Pearl Harbor[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Grandes%20Momentos%20da%20Segunda%20Guerra%20em%20Cores%20-%202019%20-%201080p/03%20Pearl%20Harbor.mkv
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]<NOMEDOEP>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Battle of Midway[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Grandes%20Momentos%20da%20Segunda%20Guerra%20em%20Cores%20-%202019%20-%201080p/04%20Battle%20of%20Midway.mkv
-#EXTINF:-1 tvg-logo="CAPA" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]<NOMEDOEP>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Grandes Momentos da Segunda Guerra em Cores (2019)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Siege of Stalingrad[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Hist%C3%B3ria,%20Guerra,%20Biografias/Grandes%20Momentos%20da%20Segunda%20Guerra%20em%20Cores%20-%202019%20-%201080p/04%20Battle%20of%20Midway.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
