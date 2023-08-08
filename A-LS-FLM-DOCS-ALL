@@ -27,6 +27,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]National Geographic (Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/A3-FLM-DOCS-Nat.Geog-ALL</externallink>
+<thumbnail>https://tinyurl.com/nat-geog</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Assista Aqui: 
+[B]DOCUMENTÁRIOS
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conteúdo extraido do National Geographic Channel.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]The History (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/A2-FLM-DOCS-The.Hist.Ch-ALL</externallink>
 <thumbnail>https://tinyurl.com/history-c</thumbnail>
@@ -34,25 +50,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista Aqui: 
 [B]DOCUMENTÁRIOS
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conteúdo extraido de canais de documentários.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]Documentários (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C-LS-SRS-DOCS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3NTwj4W/DOCS-ALL-ALL-png.png</thumbnail>
-<fanart>https://i.ibb.co/nDRXZZn/DOCS-FAN-ALL.png</fanart>
-<info>[COLOR white]Assista Aqui: 
-[B]DOCUMENTÁRIOS
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conteúdo extraido do The History Channel.
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
