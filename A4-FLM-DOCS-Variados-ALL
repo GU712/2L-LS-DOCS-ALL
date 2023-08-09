@@ -4,7 +4,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR orange][B]Variados - Filmes[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR orange][B]Canais Variados - Filmes[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -155,6 +155,55 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Variados - UFOs Misterios Conspirasoes[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Variados - UFOs Misterios Conspirasoes[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Caverna dos Sonhos Esquecidos - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/A%20Caverna%20dos%20Sonhos%20Esquecidos%20-%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Apollo 11[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Apollo%2011%20-%202019%20-%201080p%20-%20HEVC%20-%20265%20-%20LEG.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Atari, Game Over- LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Atari,%20Game%20Over%20-%202014%20-%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Efeitos Especiais em Filmes - Fantastic Flesh - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Efeitos%20Especiais%20em%20Filmes%20-%20Fantastic%20Flesh%20-%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Encontrando Vida Além da Terra - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Encontrando%20Vida%20Al%C3%A9m%20da%20Terra%20-%202011%20-%20LEG.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fireball - Mitos, Cometas e Meteoros[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Fireball%20-%20Mitos,%20Cometas%20e%20Meteoros%20-%202020%20-%201080p%20-%20HEVC%20-%20265%20-%20LEG.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Galileu - O Mensageiro das Estrelas[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Galileu%20-%20O%20Mensageiro%20das%20Estrelas.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]InProprietário - O Mundo do Software Livre[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/InPropriet%C3%A1rio%20-%20O%20Mundo%20do%20Software%20Livre.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mega Relâmpagos[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Mega%20Rel%C3%A2mpagos%20-%20PT-PT.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Números, A Linguagem Universal[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/N%C3%BAmeros,%20A%20Linguagem%20Universal.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Universo - Imagens Reais de Outros Mundos[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/O%20Universo%20-%20Imagens%20Reias%20de%20Outros%20Mundos%20(Our%20Universe)%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quem Somos Nós 2 - A Toca do Coelho[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Quem%20Somos%20N%C3%B3s%202%20-%20A%20Toca%20do%20Coelho.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quem Somos Nós[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Quem%20Somos%20N%C3%B3s.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Telescópios dos Andes Chilenos - Gemini Sul e Soar[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Telesc%C3%B3pios%20dos%20Andes%20Chilenos%20-%20Gemini%20Sul%20e%20Soar.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tesla - Mestre dos Raios[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Tesla%20-%20Mestre%20dos%20Raios.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Video Games - O Filme[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/Video%20Games%20-%20O%20Filme%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vídeo-Games - A História[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/Variados/Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos/[Variados%20-%20Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos]/V%C3%ADdeo-Games%20-%20A%20Hist%C3%B3ria%20-%202020%20-%20720p.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Variados - Universo Ciencia Tecnologia Diversos[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
