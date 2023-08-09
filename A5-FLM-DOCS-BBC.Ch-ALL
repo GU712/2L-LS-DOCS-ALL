@@ -1,1 +1,65 @@
-A5-FLM-DOCS-BBC.Ch-ALL
+#EXTM3U
+#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/nat-geog" group-title="[COLOR orange][B]BBC - Filmes[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vid-variados" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ataque das Formigas[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Ataque%20das%20Formigas.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Attenborough and the Giant Dinosaur - 2016 - Sem Legenda[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Attenborough%20and%20the%20Giant%20Dinosaur%20-%202016%20-%201080p-HDTV%20-%20HEVC%20-%20265%20-%20Sem%20Legenda.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Como Construir um Dinossauro - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Como%20Construir%20um%20Dinossauro%20-%20Legendado.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Elefantes Nomades do Deserto Namibe - Mundo Natural - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Elefantes%20Nomades%20do%20Deserto%20Namibe%20-%20Mundo%20Natural%20-%20Legendado%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Entre Gorilas - David Attenborough[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Entre%20Gorilas%20-%20David%20Attenborough%20-%20PT-PT%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Leões Na Frente de Batalha[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Le%C3%B5es%20Na%20Frente%20de%20Batalha%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mundo Natural - Cataratas do Iguaçu - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Mundo%20Natural%20-%20Cataratas%20do%20Igua%C3%A7u%20-%20720p%20-%20Legendado.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mundo Natural - Pássaros do Paraíso - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Mundo%20Natural%20-%20P%C3%A1ssaros%20do%20Para%C3%ADso%20-%20720p%20-%20Legendado.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Natural World - O Himalaia - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Natural%20World%20-%20O%20Himalaia%20-%20Legendado.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último Urso-Pardo do Vale do Paraíso - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/O%20%C3%9Altimo%20Urso-Pardo%20do%20Vale%20do%20Para%C3%ADso%20-%20720p%20-%20Legendado.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pacifico Sul Oceano dos Vulcões - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Pacifico%20Sul%20Oceano%20dos%20Vulc%C3%B5es%20-%20Legendado.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Selva - Amazonas, O Mundo da Água[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Selva%20-%20Amazonas,%20O%20Mundo%20da%20%C3%81gua%20-%20em%20PT-PT%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Selva - Congo, Rente ao Solo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Selva%20-%20Congo,%20Rente%20ao%20Solo%20-%20em%20PT-PT%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Selva - Sudeste Asiático, A Abóbada de Luz[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Selva%20-%20Sudeste%20Asi%C3%A1tico,%20A%20Ab%C3%B3bada%20de%20Luz%20-%20em%20PT-PT%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Território Selvagem - Lobo[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Territ%C3%B3rio%20Selvagem%20-%20Lobo%20-%20BBC.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ch-bbc" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tigres - Legendado[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Document%C3%A1rios%20e%20S%C3%A9ries%20de%20TV/BBC/BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem/[BBC%20-%20Animal,%20Natureza,%20Vida%20Selvagem%20-%20BBC[/Tigres%20-%20Legendado%20-%20BBC.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]BBC - Animal, Natureza, Vida Selvagem[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
