@@ -12,6 +12,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]BBC (Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/A5-FLM-DOCS-BBC.Ch-ALL</externallink>
+<thumbnail>https://tinyurl.com/ch-bbc</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<info>[COLOR white]Assista Aqui: 
+[B]DOCUMENTÁRIOS
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Conteúdo extraido do BBC Channel.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Discovery (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/A1-FLM-DOCS-Disc.Ch-ALL</externallink>
 <thumbnail>https://tinyurl.com/discoicon</thumbnail>
