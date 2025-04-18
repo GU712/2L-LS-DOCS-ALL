@@ -17,26 +17,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/A1-FLM-DOCS-Disc.Ch-ALL</externallink>
 <thumbnail>https://i.ibb.co/jJp9SGG/DOCS-ICO-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/KKKf4GX/DOCS-FAN.png</fanart>
-<info>[COLOR white]Assista Aqui: 
-[B]DOCUMENTÁRIOS
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Conteúdo extraido de canais de documentários.
-[/B][COLOR black].[/COLOR] 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Documentários (Coleções)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/B-LS-COL-DOCS-ALL</externallink>
-<thumbnail>https://i.ibb.co/LkRr6tc/DOCS-ICO-COL.png</thumbnail>
-<fanart>https://i.ibb.co/KKKf4GX/DOCS-FAN.png</fanart>
-<info>[COLOR white]Assista Aqui: 
-[B]DOCUMENTÁRIOS
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Conteúdo extraido de canais de documentários.
+<info>[COLOR white]Conheça Aqui: 
+[B]Filmes
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Documentários são produções artísticas que exploram a realidade, de forma não-ficcional.
 [/B][COLOR black].[/COLOR] 
 [/COLOR]</info>
 </channel>
@@ -49,17 +34,37 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C-LS-SRS-DOCS-ALL</externallink>
 <thumbnail>https://i.ibb.co/xqQh3Mj/DOCS-ICO-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/KKKf4GX/DOCS-FAN.png</fanart>
-<info>[COLOR white]Assista Aqui: 
-[B]DOCUMENTÁRIOS
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Conteúdo extraido de canais de documentários.
+<info>[COLOR white]Conheça Aqui: 
+[B]Séries
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Documentários são produções artísticas que exploram a realidade, de forma não-ficcional.
 [/B][COLOR black].[/COLOR] 
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Documentários (Coleções)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/B-LS-COL-DOCS-ALL</externallink>
+<thumbnail>https://i.ibb.co/LkRr6tc/DOCS-ICO-COL.png</thumbnail>
+<fanart>https://i.ibb.co/KKKf4GX/DOCS-FAN.png</fanart>
+<info>[COLOR white]Conheça Aqui: 
+[B]Coleções
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Documentários são produções artísticas que exploram a realidade, de forma não-ficcional.
+[/B][COLOR black].[/COLOR] 
+[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
