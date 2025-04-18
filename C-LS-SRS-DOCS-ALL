@@ -1,325 +1,191 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="LOGO" group-title="[COLOR orange][B]DOCUMENTÁRIOS -  SÉRIES[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]Africa Selvagem - Rios[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C-LS-SRS-DOCS-ALL</externallink>
+<thumbnail>https://i.ibb.co/y53dfQJ/SEL-ITEM-GEN-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Vida no Rio Limpopo[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/01%20A%20Vida%20no%20Rio%20Limpopo.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]As Batalhas do Rio Luangwa[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/02%20As%20Batalhas%20do%20Rio%20Luangwa.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Do Deserto às Savanas[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/03%20Do%20Deserto%20%C3%A0s%20Savanas.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Grande Rio Okavango[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/04%20O%20Grande%20Rio%20Okavango.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Populoso Rio Sand[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/05%20O%20Populoso%20Rio%20Sand.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Longo Rio Zambezi[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/06%20O%20Longo%20Rio%20Zambezi.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Poderoso Nilo[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/07%20O%20Poderoso%20Nilo.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Temporada de Renovação[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/08%20Temporada%20de%20Renova%C3%A7%C3%A3o.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Escultor de Paisagens[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Africa.Selvagem.Rios.2018.FHD/09%20Escultor%20de%20Paisagens.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Africa Selvagem - Rios (2018)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR white][B]DOCUMENTÁRIOS - SÉRIES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/refs/heads/main/C-SEL-SRS-DOCs-LS-ALL</externallink>
+<thumbnail>https://tinyurl.com/discoicon</thumbnail>
+<fanart>https://tinyurl.com/discofundo</fanart>
+<info>[COLOR white]Assista Documentários: 
+[B]SÉRIES
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Documentários são produções artísticas que exploram a realidade, de forma não-ficcional.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]Alasca Selvagem[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR white][B]DISCOVERY CHANNEL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C1-SEL-Disc.Chn.ALL</externallink>
+<thumbnail>https://tinyurl.com/discoicon</thumbnail>
+<fanart>https://tinyurl.com/discofundo</fanart>
+<info>[COLOR white]Assista Documentários: 
+[B]DISCOVERY CHANNEL
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Documentários são produções artísticas que exploram a realidade, de forma não-ficcional.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C-LS-SRS-DOCS-ALL</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Primavera[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Alasca.Selvagem.2021.FHD/01-Primavera.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Verão[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Alasca.Selvagem.2021.FHD/02-Verao.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Inverno[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Alasca.Selvagem.2021.FHD/03-Inverno.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Alasca Selvagem (2021)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C-LS-SRS-DOCS-ALL</externallink>
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]China Selvagem[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOVIDADES DA SEMANA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Terra do Dragão[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/China.Selvagem.2008.FHD/01%20Terra%20do%20Drag%C3%A3o.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Sob as Nuvens[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/China.Selvagem.2008.FHD/02%20Sob%20as%20Nuvens.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Alturas Celestiais[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/China.Selvagem.2008.FHD/03%20Alturas%20Celestiais.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Território do Panda[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/China.Selvagem.2008.FHD/04%20Territ%C3%B3rio%20do%20Panda.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Além da Muralha[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/China.Selvagem.2008.FHD/05%20Al%C3%A9m%20da%20Muralha.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Multidão[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/06%20Multid%C3%A3o.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]China Selvagem - (2008)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOSTALGIA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]Europa Selvagem[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]ESPECIAIS
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Terra Gelada[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Europa.Selvagem.2017.FHD/01%20Terra%20Gelada.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Rios, Lagos e Oceanos[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Europa.Selvagem.2017.FHD/02%20Rios,%20Lagos%20e%20Oceanos.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Os Alpes[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Europa.Selvagem.2017.FHD/03%20Os%20Alpes.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Bosques e Florestas[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Europa.Selvagem.2017.FHD/04%20Bosques%20e%20Florestas.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Terras Áridas[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Europa.Selvagem.2017.FHD/05%20Terras%20%C3%81ridas.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Europa Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]India Natureza Revelada[/B][/COLOR]
-LINKDOFILME
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
+<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]FILMES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]MENU GERAL
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Terra da Mudança[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/India.Natureza.Revelada.2018.FHD/01.Terra.da.Mudanza.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Terra das Montanhas[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/India.Natureza.Revelada.2018.FHD/02.Terra.das.Montanhas.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Terra do Rio[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/India.Natureza.Revelada.2018.FHD/03.Terra.do.Rio.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]India Natureza Revelada (2018)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]Indonesia Selvagem[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Terra de Gigantes[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Indonesia.Selvagem.2017.FHD/01-Terra.de.Gigantes.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Ilhas e Monções[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Indonesia.Selvagem.2017.FHD/02-Ilhas.e.Monzoes.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Vulcões[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Indonesia.Selvagem.2017.FHD/03-Vulcoes.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Mundos Secretos[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Indonesia.Selvagem.2017.FHD/04.Mundos.Secretos.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Território do Dragão[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Indonesia.Selvagem.2017.FHD/05-O.Territorio.do.Dragao.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Indonésia Selvagem (2017)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]Oriente Medio Selvagem[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Turquia[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Oriente.Medio.Selvagem.2015.FHD/01.Turquia.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Arábia[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Oriente.Medio.Selvagem.2015.FHD/02.Arabia.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Jordânia[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Oriente.Medio.Selvagem.2015.FHD/03.Jordania.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Egito - O Coração do Oriente Médio[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Oriente.Medio.Selvagem.2015.FHD/04.Egito.O.Corasao.do.O.M.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Mar Cáspio[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Oriente.Medio.Selvagem.2015.FHD/05.Mar.Caspio.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Oriente Medio Selvagem (2015)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]Testemunha Alienigena[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Acidentes Secretos[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/01.Acidentes.Secretos.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Segredos de Estado[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/02.Segredos.de.Estado.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Retorno da Nave-Mãe[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/03.O.Retorno.da.Nave-Mae.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Garras Noturnas[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/04.Garras.Noturnas.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Tecnologia Alienígena[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/05.Tecnologia.Alienigena.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]ETs Debaixo do Solo[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/06.ETs.Debaixo.do.Solo.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Segredo Híbrido[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/07.Segredo.Hibrido.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Contatos Imediatos[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Testemunha.Alienigena.2021.FHD/08.Contatos.Imediatos.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Testemunha Alienigena (2021)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]Vida Remota - O Refugio de Marty[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - FHD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Vivendo no Limite[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/01%20Vivendo%20no%20Limite.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Um se Pelo Rio, Dois se Pelo Ar[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/02%20Um%20se%20Pelo%20Rio,%20Dois%20se%20Pelo%20Ar.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Os Dias de Raney Estão Chegando[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/03%20Os%20Dias%20de%20Raney%20Est%C3%A3o%20Chegando.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Faça ou Morra[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/04%20Fa%C3%A7a%20ou%20Morra.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Negócio Arriscado[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/05%20Neg%C3%B3cio%20Arriscado.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Escada para o Céu[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/06%20Escada%20para%20o%20C%C3%A9u.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]União no Alasca[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/07%20Uni%C3%A3o%20no%20Alasca.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Lance do Destino[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/08%20Lance%20do%20Destino.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Incêndio[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/09%20Inc%C3%AAndio.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Gelo Fino[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/10%20Gelo%20Fino.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Agradecendo[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/11%20Agradecendo.mkv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/discoicon" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Inverno[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/DOCS/SRS/Vida.Remota-O.Refugio.de.Marty.2021.FHD/12%20Inverno.mkv
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Vida Remota - O Refugio de Marty (2021)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-DOCUMENTÁRIOS
